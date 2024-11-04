@@ -12,7 +12,7 @@ if a < b:
         if i % 5 == 0:
             _sum+=i
 else:
-     for i in range(a,b+1):
+     for i in range(b,a+1):
         if i % 5 == 0:
             _sum+=i
 
